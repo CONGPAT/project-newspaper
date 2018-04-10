@@ -7,6 +7,6 @@ Team Pinocchio from KIC Education
 <head>
 </head>
 <body>
-  HELLO TEAM ~~~~~~OKOKOKOK
+  HELLO TEAM ~~~~~~OKOKOKOK 
 </body>
 
